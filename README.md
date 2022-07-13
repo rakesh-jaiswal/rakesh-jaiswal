@@ -18,7 +18,7 @@ I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India.
 
 - 😄 Ask me about anything, I'll be happy to help.
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/durgesh-pal-2001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-pal-2001" height="30" width="40" /></a>
@@ -48,7 +48,7 @@ I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India.
 <br />
 <br />
 <hr />
-  
+  -->
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rakesh-jaiswal&show_icons=true&locale=en&theme=onedark" alt="rakesh-jaiswal" /></p>
 
 <details align="center">
