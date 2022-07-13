@@ -49,14 +49,14 @@ I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India.
 <br />
 <hr />
   
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=durgesh2001&show_icons=true&locale=en&theme=onedark" alt="durgesh2001" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rakesh-jaiswal&show_icons=true&locale=en&theme=onedark" alt="rakesh-jaiswal" /></p>
 
 <details align="center">
   <summary>:zap: More about Profile</summary>
    <br />
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh2001&theme=tokyonight" alt="durgesh2001" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh-jaiswal&theme=tokyonight" alt="rakesh-jaiswal" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh2001&theme=juicyfresh" alt="durgesh2001" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh-jaiswal&theme=juicyfresh" alt="rakesh-jaiswal" /></a> </p>
 
 </details>
   <br />
