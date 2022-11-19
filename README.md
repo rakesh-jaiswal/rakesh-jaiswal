@@ -19,6 +19,9 @@ I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India.
 - 😄 Ask me about anything, I'll be happy to help.
 
 
+## Badges
+[![@rkj20012018's Holopin board](https://holopin.me/rkj20012018)](https://holopin.io/@rkj20012018)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rakesh-kumar-jaiswal-9a8694213/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-kumar-jaiswal-9a8694213" height="30" width="40" /></a>
