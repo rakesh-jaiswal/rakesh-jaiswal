@@ -67,7 +67,7 @@ I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India.
 
 
 <!--
-**durgesh2001/durgesh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rkj20012018/rkj20012018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
