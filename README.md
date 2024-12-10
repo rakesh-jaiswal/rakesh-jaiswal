@@ -3,12 +3,12 @@
 
 
 
-I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India. In my spare time I participate in coding contests.
+I am a R&D Engineer in the SIMULIA 3DEXPERIENCE Platform team, where I collaborate with development teams to validate edge cases in internal projects and ensure the reliability of cloud environments. I have enhanced team efficiency by developing automation tools using Python and JavaScript.
 
 
 ![](https://komarev.com/ghpvc/?username=rakesh-jaiswal&color=yellow)
 
-- 💬 Ask me about **C / C++ programming, Problem solving**
+- 💬 Ask me about **C / C++ programming, Java, Problem solving**
 
 - 📫 Mail me **rkj20012018@gmail.com**
 
