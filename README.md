@@ -3,7 +3,7 @@
 
 
 
-I work as a R&D Engineer at Dassault Systèmes, where I collaborate with development teams to validate edge cases in internal projects and ensure the reliability of cloud environments. I have enhanced team efficiency by developing automation tools using Python and JavaScript.
+I am working as a R&D Engineer at Dassault Systèmes, where I collaborate with development teams to validate edge cases in internal projects and ensure the reliability of cloud environments. I have enhanced team efficiency by developing automation tools using Python and JavaScript.
 
 
 ![](https://komarev.com/ghpvc/?username=rakesh-jaiswal&color=yellow)
