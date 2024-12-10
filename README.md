@@ -6,7 +6,7 @@
 I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India. In my spare time I participate in coding contests.
 
 
-![Profile views](https://gpvc.arturio.dev/rakesh-jaiswal)  
+![Profile views]https://camo.githubusercontent.com/d0a27721f22b1638fa6e580b15369dff6b2fc02fd39717ca6f90d2b66d3eb349/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e6b6974353935266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174  
 
 - 💬 Ask me about **C / C++ programming, Problem solving**
 
