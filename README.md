@@ -6,7 +6,7 @@
 I'm Rakesh Jaiswal,an Engineering Student & Passionate Web Developer from India. In my spare time I participate in coding contests.
 
 
-![Profile views]
+![](https://komarev.com/ghpvc/?username=rakesh-jaiswal&color=yellow)
 
 - 💬 Ask me about **C / C++ programming, Problem solving**
 
