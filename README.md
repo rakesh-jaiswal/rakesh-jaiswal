@@ -17,6 +17,13 @@ I'm passionate about solving real-world problems through technology. Currently w
 
 - 😄 Ask me about anything, I'll be happy to help.
 
+## 🏆 Achievements
+
+- 🏅 **SIMULIA CHAMPION H1 - 2024** (Automation & Process Improvement)  
+- 🎯 Qualified **GATE 2022**  
+- 🔢 Solved **2000+ problems** on coding platforms  
+- ⭐ 5⭐ in Problem Solving & C++ on HackerRank  
+- 🥇 87th Rank in OHF 2022
 
 ## Badges
 [![@rkj20012018's Holopin board](https://holopin.me/rkj20012018)](https://holopin.io/@rkj20012018)
