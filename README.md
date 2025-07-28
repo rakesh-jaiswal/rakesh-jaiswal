@@ -1,14 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rakesh Jaiswal</h1>
-<h3 align="center"> Engineering Student & Passinate Web Developer</h3>
+<h3 align="center"> Software Development Engineer in Test | Building and Automating testing frameworks and tools</h3>
 
 
 
-I am working as a R&D Engineer at Dassault Systèmes, where I collaborate with development teams to validate edge cases in internal projects and ensure the reliability of cloud environments. I have enhanced team efficiency by developing automation tools using Python and JavaScript.
-
+I'm passionate about solving real-world problems through technology. Currently working as a Software Development Engineer in Test at Dassault Systèmes, where I ensure the robustness and performance of platform features on the SIMULIA 3DEXPERIENCE cloud by automating processes.
 
 ![](https://komarev.com/ghpvc/?username=rakesh-jaiswal&color=yellow)
 
-- 💬 Ask me about **C / C++ programming, Java, Problem solving**
+- 💬 Ask me about **C / C++ programming, Java, Spring Boot, AWS, Microservices, Problem solving**
 
 - 📫 Mail me **rkj20012018@gmail.com**
 
